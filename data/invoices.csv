@@ -1,0 +1,12 @@
+Date,Statement No,Client,Business Email,Currency,Summary,Due Date,State,PO Number,Note,Sub Total,Discount,Shipping,Tax,Billed Total,Paid Total,Total Due,Last Paid On,Last Payment Method,Last Payment Currency
+2013-10-31,IN-0558,Jane Doe Inc.,jane@example.com,usd,Email template design,2013-11-15,viewed,,Our responsive email templates support most screens and devices.,5500,200,0,250,5550,0,5550,N/A,N/A,N/A
+2013-10-21,IN-0559,John Doe,john@example.com,usd,Business Cards,2013-11-05,draft,222231,,2000,200,75,20,1895,0,1895,N/A,N/A,N/A
+2014-02-10,ROI-20,Acme Europe,acme@example.com,eur,Letter Heads,2014-02-10,draft,3212,,946,0,0,0,946,0,946,N/A,N/A,N/A
+2013-11-26,BOC-5,John Doe,john@example.com,usd,Loan Installment - Mar ,2013-11-26,partial,,,27000,67,12,4847.94,31792.94,20000.94,11792,2014-03-12,other,usd
+2013-10-22,COM-7,Richard & Co.,richard@example.com,gbp,CCTV Units,2013-10-22,draft,,Limited 2-year warranty included.,2000,200,676,18.3,2494.3,0,2494.3,N/A,N/A,N/A
+2013-12-26,BOC-3,John Doe,john@example.com,usd,Loan Installment - Apr  ,2013-12-26,sent,,,27000,67,12,4847.94,31792.94,0,31792.94,N/A,N/A,N/A
+2013-12-06,IN-0560,Jane Doe Inc.,jane@example.com,usd,Web Research,2014-01-05,sent,45214,,2450,35,0,40.75,2455.75,0,1147.55,N/A,N/A,N/A
+2014-02-06,IN-0555,John Doe,john@example.com,usd,SEO,2014-02-06,draft,,,450,0,0,0,450,0,450,N/A,N/A,N/A
+2013-12-26,COM-6,Richard & Co.,richard@example.com,gbp,CCTV Repair ,2013-12-26,sent,,,27000,500,320,600,27420,0,27420,N/A,N/A,N/A
+2014-01-12,ROI-25,Acme Europe,acme@example.com,eur,Consulting,2014-01-12,draft,,"For clarifications, please contact us.",11559,0,0,0,11559,0,11559,N/A,N/A,N/A
+2014-02-06,IN-0666,Jane Doe Inc.,jane@example.com,usd,SEO,2014-02-06,paid,60854,,1500,0,0,0,1500,1500,0,2014-06-12,other,usd

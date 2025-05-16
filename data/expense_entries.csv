@@ -1,0 +1,7 @@
+Date,Expense Category,Description,Amount,State,Tag,Client,Business Email
+2013-10-31,Marketing,Internet service,25,billed,Project A,Jane Doe Inc.,jane@example.com
+2014-08-15,Transportation,Fuel,73,unbilled,Project B,John Doe,john@example.com
+2013-08-12,Transportation,Flight bookings,253,billed,Project C,Acme Europe,acme@example.com
+2014-06-19,Marketing,Article on ABC,1350,unbilled,Project D,Richard & Co.,richard@example.com
+2014-09-06,Meals & Entertainment,Dining out,94,unbilled,Project B,John Doe,john@example.com
+2013-09-08,Utilities,Phone bill,67,billed,Project C,Acme Europe,acme@example.com
